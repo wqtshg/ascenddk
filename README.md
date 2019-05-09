@@ -6,7 +6,7 @@ Codes are moved, new addresses are:
  - https://github.com/Ascend/sample-facedetection
  - https://github.com/Ascend/sample-facialrecognition
  - https://github.com/Ascend/sample-videoanalysiscar
- - https://github.com/Ascend/sample-videoanalysiaperson
+ - https://github.com/Ascend/sample-videoanalysisperson
  - https://github.com/Ascend/sdk-ezdvpp
  - https://github.com/Ascend/sdk-presenter
 
