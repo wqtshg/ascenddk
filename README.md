@@ -2,7 +2,7 @@ EN|[CN](README_cn.md)
 ## Open Source Project -Ascend Developer Kit
 
 Codes are moved, new addresses are:
- - https://github.com/Ascend/sample-acendcamera
+ - https://github.com/Ascend/sample-ascendcamera
  - https://github.com/Ascend/sample-facedetection
  - https://github.com/Ascend/sample-facialrecognition
  - https://github.com/Ascend/sample-videoanalysiscar
