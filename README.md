@@ -3,7 +3,7 @@ EN|[CN](README_cn.md)
 
 Codes are moved, new addresses are:
  - https://github.com/Ascend/sample-acendcamera
- - https://github.com/Ascend/sample-facedetetion
+ - https://github.com/Ascend/sample-facedetection
  - https://github.com/Ascend/sample-facialrecognition
  - https://github.com/Ascend/sample-videoanalysiscar
  - https://github.com/Ascend/sample-videoanalysiaperson
